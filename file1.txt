@@ -1,1 +1,2 @@
 added something good directly from atom
+lets start work with intellij idea
